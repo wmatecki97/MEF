@@ -1,0 +1,14 @@
+F:\Programowanie\C#\MEF\ImportExportExample\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.deps.json
+F:\Programowanie\C#\MEF\ImportExportExample\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.json
+F:\Programowanie\C#\MEF\ImportExportExample\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.dev.json
+F:\Programowanie\C#\MEF\ImportExportExample\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.dll
+F:\Programowanie\C#\MEF\ImportExportExample\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.pdb
+F:\Programowanie\C#\MEF\ImportExportExample\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Programowanie\C#\MEF\ImportExportExample\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfoInputs.cache
+F:\Programowanie\C#\MEF\ImportExportExample\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfo.cs
+F:\Programowanie\C#\MEF\ImportExportExample\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.dll
+F:\Programowanie\C#\MEF\ImportExportExample\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.pdb
+F:\Programowanie\C#\MEF\ImportExportExample\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csprojAssemblyReference.cache
+F:\Programowanie\C#\MEF\ImportExportExample\ConsoleApp1\bin\Debug\netcoreapp2.2\Exports.dll
+F:\Programowanie\C#\MEF\ImportExportExample\ConsoleApp1\bin\Debug\netcoreapp2.2\Exports.pdb
+F:\Programowanie\C#\MEF\ImportExportExample\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csproj.CopyComplete

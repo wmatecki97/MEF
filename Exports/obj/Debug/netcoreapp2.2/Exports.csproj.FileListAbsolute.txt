@@ -1,0 +1,10 @@
+F:\Programowanie\C#\MEF\ImportExportExample\Exports\bin\Debug\netcoreapp2.2\Exports.deps.json
+F:\Programowanie\C#\MEF\ImportExportExample\Exports\bin\Debug\netcoreapp2.2\Exports.runtimeconfig.json
+F:\Programowanie\C#\MEF\ImportExportExample\Exports\bin\Debug\netcoreapp2.2\Exports.runtimeconfig.dev.json
+F:\Programowanie\C#\MEF\ImportExportExample\Exports\bin\Debug\netcoreapp2.2\Exports.dll
+F:\Programowanie\C#\MEF\ImportExportExample\Exports\obj\Debug\netcoreapp2.2\Exports.csproj.CoreCompileInputs.cache
+F:\Programowanie\C#\MEF\ImportExportExample\Exports\obj\Debug\netcoreapp2.2\Exports.AssemblyInfoInputs.cache
+F:\Programowanie\C#\MEF\ImportExportExample\Exports\obj\Debug\netcoreapp2.2\Exports.AssemblyInfo.cs
+F:\Programowanie\C#\MEF\ImportExportExample\Exports\bin\Debug\netcoreapp2.2\Exports.pdb
+F:\Programowanie\C#\MEF\ImportExportExample\Exports\obj\Debug\netcoreapp2.2\Exports.dll
+F:\Programowanie\C#\MEF\ImportExportExample\Exports\obj\Debug\netcoreapp2.2\Exports.pdb
