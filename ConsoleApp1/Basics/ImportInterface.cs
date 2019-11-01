@@ -16,7 +16,7 @@ namespace ConsoleApp1
         public string text => "Interface text!";
     }
 
-    class ImportInterface
+    class ImportInterface 
     {
 
         [Import(typeof(IExmple))]
